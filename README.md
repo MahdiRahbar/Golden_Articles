@@ -15,6 +15,7 @@ In this repository I add the articles and blog posts that I found the most fruit
 ### Implementations
 1. [A Neural Network in 10 lines of C++ Code](https://cognitivedemons.wordpress.com/2017/07/06/a-neural-network-in-10-lines-of-c-code/)
 2. [A Neural Network in 10 lines of CUDA C++ Code](https://cognitivedemons.wordpress.com/2017/09/02/a-neural-network-in-10-lines-of-cuda-c-code/)
+3. [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
 ****
 ## Programming
 ### Theory
