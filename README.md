@@ -12,6 +12,7 @@ In this repository I add the articles and blog posts that I found the most fruit
 1. [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 ### Theory and Implementations
 1. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 ### Implementations
 1. [A Neural Network in 10 lines of C++ Code](https://cognitivedemons.wordpress.com/2017/07/06/a-neural-network-in-10-lines-of-c-code/)
 2. [A Neural Network in 10 lines of CUDA C++ Code](https://cognitivedemons.wordpress.com/2017/09/02/a-neural-network-in-10-lines-of-cuda-c-code/)
@@ -28,5 +29,7 @@ In this repository I add the articles and blog posts that I found the most fruit
 ### Theory
 
 ### Theory and Implementations
+1. [Design Patterns](https://refactoring.guru/design-patterns)
+2. [Python Patterns](https://python-patterns.guide/)
 
 ### Implementations
