@@ -1,4 +1,4 @@
-# Golden_Articles
+# Golden Articles
 
 In this repository I add the articles and blog posts that I found the most fruitful, knowledgeable and easy to understand in the field of Computer Science and Artificial Intelligence. Hope it also be useful for you! :) 
 
