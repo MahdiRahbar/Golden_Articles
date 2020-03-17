@@ -5,6 +5,10 @@ What I have learned so far is that finding the best resource between all these a
 
 If you found this repo helpful to you in any way, please give a star, introduce it to your friends. If you also feel the same way that I explained above, please contribute to this repo so more people can save their time exploring new topics.
 
+## Contribute: 
+
+For contribution to this repo, first fork it and then commit your own version of it with the current style to this repository as a pull request. If you had any suggestions, please drop me an [email](mailto:mahdirahbar01@gmail.com).
+
 ## Main Sections:
 #### 1. [Artificial Intelligence](#Artificial-Intelligence)
 #### 2. [Programming](#Programming)
