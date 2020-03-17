@@ -1,6 +1,7 @@
 # Golden Articles
 
 Nowadays, when you decide to get familiar with a new topic in Computer Science, the next step that comes in the way is what resources to choose to get the best understanding of that area. After Googling that, a vast range of suggestions will be displayed, and it can be kind of overwhelming! Specially to new learners in that area. 
+
 What I have learned so far is that finding the best resource between all these articles and blog posts requires some considerable time! You have to go through at least 15-20 posts, articles and issues to find one the most helpful and comprehensive. Hence I decided to provide this repository to add the ones that I found the most fruitful, knowledgeable, and easy to understand in the field of Computer Science and Artificial Intelligence. I hope it also is useful for you!  :) 
 
 If you found this repo helpful to you in any way, please give a star, introduce it to your friends. If you also feel the same way that I explained above, please contribute to this repo so more people can save their time exploring new topics.
