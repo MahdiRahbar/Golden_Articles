@@ -32,7 +32,7 @@ For contribution to this repo, first fork it and then commit your own version of
 ### Theory
 
 ### Theory and Implementations
-
+1. [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 ### Implementations
 ****
 ## Software Engineering
