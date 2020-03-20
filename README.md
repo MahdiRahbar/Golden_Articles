@@ -23,6 +23,7 @@ For contribution to this repo, first fork it and then commit your own version of
 1. [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 2. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 3. [Using Genetic Algorithm for optimizing Recurrent Neural Network](http://aqibsaeed.github.io/2017-08-11-genetic-algorithm-for-optimizing-rnn/)
+4. [Evaluating a Linear Regression Model](https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/)
 ### Implementations
 1. [A Neural Network in 10 lines of C++ Code](https://cognitivedemons.wordpress.com/2017/07/06/a-neural-network-in-10-lines-of-c-code/)
 2. [A Neural Network in 10 lines of CUDA C++ Code](https://cognitivedemons.wordpress.com/2017/09/02/a-neural-network-in-10-lines-of-cuda-c-code/)
@@ -33,6 +34,7 @@ For contribution to this repo, first fork it and then commit your own version of
 
 ### Theory and Implementations
 1. [Data Science Ipython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+2. [Speed Up Your Python Program With Concurrency](https://realpython.com/python-concurrency/)
 ### Implementations
 ****
 ## Software Engineering
