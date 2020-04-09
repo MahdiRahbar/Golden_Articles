@@ -6,4 +6,7 @@
 3. [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 4. [Using Genetic Algorithm for optimizing Recurrent Neural Network](http://aqibsaeed.github.io/2017-08-11-genetic-algorithm-for-optimizing-rnn/)
 
-
+### Implementations
+1. [A Neural Network in 10 lines of C++ Code](https://cognitivedemons.wordpress.com/2017/07/06/a-neural-network-in-10-lines-of-c-code/)
+2. [A Neural Network in 10 lines of CUDA C++ Code](https://cognitivedemons.wordpress.com/2017/09/02/a-neural-network-in-10-lines-of-cuda-c-code/)
+3. [Top Deep Learning Projects](https://github.com/aymericdamien/TopDeepLearning)
