@@ -17,6 +17,12 @@ For contribution to this repo, first fork it and then commit your own version of
 ****
 
 ## Artificial Intelligence 
+
+1. [Machine Learning and Algorithms]()
+2. [Neural Networks and Deep Learning]()
+3. [Computer Vision]()
+4. [Natural Language Processing]()
+
 ### Theory
 1. [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 ### Theory and Implementations
