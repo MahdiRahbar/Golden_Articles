@@ -23,6 +23,13 @@ For contribution to this repo, first fork it and then commit your own version of
 3. [Computer Vision]()
 4. [Natural Language Processing]()
 
+## Programming
+1. [General Concepts]()
+2. [Python]()
+3. [C++]()
+
+## Software Engineering
+
 ### Theory
 1. [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 ### Theory and Implementations
