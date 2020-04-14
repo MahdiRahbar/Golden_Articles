@@ -31,6 +31,7 @@ For contribution to this repo, first fork it and then commit your own version of
 ## Software Engineering
 
 1. [Software Design]()
+2. [Implementation Tips]()
 
 ### Theory
 1. [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
